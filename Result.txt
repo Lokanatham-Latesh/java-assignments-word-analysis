@@ -1,14 +1,14 @@
 ----- Analysis Report -----
 
-1. Total Words (excluding articles and auxiliary verbs): 87
+1. Total Words (excluding articles and auxiliary verbs): 88
 2. Total articles and auxiliary verbs: 8
-3. Total Characters (excluding spaces): 460
+3. Total Characters (excluding spaces): 466
 4. Total Number of Lines: 2
 5. Word Frequencies:
 i: 6
+latesh: 4
 in: 4
 my: 4
-latesh: 3
 at: 3
 and: 2
 of: 2
